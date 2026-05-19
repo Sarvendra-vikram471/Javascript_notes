@@ -1,26 +1,26 @@
 let value = 3
 let negValue = -value
-// console.log(negValue);
+console.log(negValue);
 
-// console.log(2+2);
-// console.log(2-2);
-// console.log(2*2);
-// console.log(2**3);
-// console.log(2/3);
-// console.log(2%3);
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**3);
+console.log(2/3);
+console.log(2%3);
 
 let str1 = "hello"
 let str2 = " hitesh"
 
 let str3 = str1 + str2
-// console.log(str3);
+console.log(str3);
 
-// console.log("1" + 2);
-// console.log(1 + "2");
-// console.log("1" + 2 + 2);
-// console.log(1 + 2 + "2");
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
 
-// console.log( (3 + 4) * 5 % 3);
+console.log( (3 + 4) * 5 % 3);
 
 console.log(+true);  // output is 1
 console.log(+"");    // output is 0
@@ -28,8 +28,18 @@ console.log(+"");    // output is 0
 let num1, num2, num3
 
 num1 = num2 = num3 = 2 + 2
+console.log(num1, num2, num3)
 
-let gameCounter = 100
-++gameCounter;
+console.log("\n");
+
+let gameCounter = 100;
+let total1=++gameCounter;
 console.log(gameCounter);
+console.log(total1);
+
+console.log("\n");
+
+let total2=gameCounter++;
+console.log(gameCounter);
+console.log(total2);
 
