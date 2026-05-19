@@ -17,5 +17,9 @@ conversion to boolean =:
 (number) 1-> boolean true
 (string) "" -> boolean false
 (string) "Ram" -> boolean true
+(object) null -> boolean false
+(undefined) undefined -> boolean false
+
+
 
 
