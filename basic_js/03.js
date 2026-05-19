@@ -75,7 +75,16 @@ no_2=Boolean(no_2)
 console.log(no_2)
 console.log(typeof no_2)
 
+console.log("\n")
+
 let no_3=undefined
 no_3=Boolean(no_3)
 console.log(no_3)
 console.log(typeof no_3)
+
+console.log("\n")
+
+let no_4=null
+no_4=Boolean(no_4)  
+console.log(no_4)
+console.log(typeof no_4)

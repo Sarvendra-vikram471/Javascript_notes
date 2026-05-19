@@ -7,13 +7,13 @@ account_city="Banglore";
 
 accountEmail="asu@gmail.com";
 accountPassword="1212";
-account_city="Jaipur";
+account_city="Jaipur"; 
 
-console.log(account_id);
+console.log(account_id); 
 
-console.table([account_id,accountEmail,accountPassword,account_city]);
+console.table([account_id,accountEmail,accountPassword,account_city]);  
 
-let account_age;
+let account_age;  
 console.table([account_id,accountEmail,accountPassword,account_city,account_age]);
 
 /*

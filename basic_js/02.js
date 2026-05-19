@@ -13,7 +13,7 @@ let isloggedin=false
 // number => 2 ^ 53
 // bigint
 // string =>""
-//boolean=> true/false
+// boolean=> true/false
 // null (standalone value)
 // undefined => the value not specified 
 // symbol => unique
