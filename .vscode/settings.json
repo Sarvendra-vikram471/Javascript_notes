@@ -1,3 +1,14 @@
 {
-    "liveServer.settings.port": 5502
+    "liveServer.settings.port": 5502,
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": { "other": true, "comments": false, "strings": false },
+    "[html]": {
+        "editor.quickSuggestions": { "other": true, "comments": false, "strings": false },
+        "emmet.triggerExpansionOnTab": true
+    },
+    "[css]": {
+        "editor.quickSuggestions": { "other": true, "comments": false, "strings": false }
+    },
+    "github.copilot.enable": false,
+    "github.copilot.inlineSuggest.enable": false
 }
